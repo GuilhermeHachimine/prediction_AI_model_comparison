@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "prediction-ai-model-comparison"
+version = "0.1.0"
+description = "software for comparing two prediction ai models"
+authors = ["Guilherme Hachimine <gui.hachimine@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
