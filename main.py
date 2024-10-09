@@ -13,8 +13,6 @@ from tensorflow.keras.layers import Dense, Dropout, LSTM
 
 #SET PLOT SIZE
 rcParams['figure.figsize'] = 15,6
-print("HMMM")
-#Dataset for AI LSTM
 data = pd.read_csv('PM_DATABASE.csv')
 data.head()
 
