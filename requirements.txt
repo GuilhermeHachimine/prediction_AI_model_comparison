@@ -4,3 +4,6 @@ scikit-learn
 tensorflow
 pandas-datareader
 matplotlib
+pmdarima
+jupyter
+ipykernel
